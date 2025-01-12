@@ -1,3 +1,6 @@
+A super simple LLM exercise in order to see some C++ basics. Moving on to more complex projects!
+
+
 Build a small CLI calculator using C++
 
 ## What We're Building
